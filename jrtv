@@ -36,7 +36,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="",CINEMO!
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="",Cinemo
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
@@ -53,7 +53,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
 http://143.44.136.112:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://logo.iptveditor.com/cinemaone.png",Cinema One Global
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://logo.iptveditor.com/cinemaone.png",CINEMA ONE GLOBAL
 http://ott.udptv.net:80/stream/iptv/cinemaoneglobal/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="",Viva Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=dash
