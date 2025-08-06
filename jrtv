@@ -1,379 +1,2108 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="",A2Z
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500851
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/ALLTV_Logo_2022.svg/2560px-ALLTV_Logo_2022.svg.png" group-title="",ALL TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500852
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/1200px-Kapamilya_Channel_Logo_2020.svg.png" group-title="",Kapamilya Channel
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 3
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500853
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/starmometer.com/wp-content/uploads/2011/04/TFC.jpg" group-title="",TFC
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 4
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500854
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1920px-GMA_Network_Logo_Vector.svg.png" group-title="",GMA
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 5
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500855
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/866px-GTV_Philippines_Logo_Vector.svg.png" group-title="",GTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 6
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500856
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png" group-title="",TV5
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500857
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1280px-Jeepney_TV_Logo_2015.svg.png" group-title="",Jeepney TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 8
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500858
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1280px-Myxphlogo.svg.png" group-title="",Myx
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 9
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500859
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/8b/MTV_1981_Color_Alt_3.png" group-title="",MTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
-https://tr.live.cdn.cgates.lt/live/dash/560701/index.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 10
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500860
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/pbarush.png" group-title="",PBA Rush
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XX", HINDI xxx 11
+http://filex.tv:8080/joeline612/FdVyzGCD7y/500861
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="",NBATV Philippines
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="",Cinemo Global
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
-https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="",Cinemo
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 1.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523568
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/800px-Cinema_One_2013_logo.svg.png" group-title="",Cinema One Global
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 2.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523571
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/800px-Cinema_One_2013_logo.svg.png" group-title="",Cinema One
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 3.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523572
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="",PBO
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 4.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523573
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="",Viva Cinema
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 5.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523574
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Celestial-Logo-2022.jpg" group-title="",Celestial Movies Pinoy
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 6.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523575
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="",Tagalized Movie Channel
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 7.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523576
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="",Cartoon Network
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 8.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523577
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="",Disney Channel
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=72800c62fcf2bfbedd9af27d79ed35d6:b6ccb9facb2c1c81ebe4dfaab8a45195
-https://uselector.cdn.intigral-ott.net/DIS/DIS.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 9.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523578
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/27/a7/d3/27a7d36f3ac0a60c681d5cc295de819f.jpg" group-title="",Cartoonito
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 10.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523579
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="",NickToons
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
-https://tr.live.cdn.cgates.lt/live/dash/561208/index.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 11.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524124
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nickelodeon_2023_logo_%28alternative%29.svg/1024px-Nickelodeon_2023_logo_%28alternative%29.svg.png" group-title="",Nickelodeon
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_nickelodeon.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 12.HINDI ADULT 2/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524126
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/963px-Nick_Jr._logo_2023.svg.png" group-title="",Nick Jr.
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 13.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524130
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="",DREAMWORKS HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 14.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524131
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="",Dreamworks Tagalog
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 15.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524132
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="",Animax
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 16.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524133
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/08/hbo-logo.jpeg" group-title="",HBO
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 17.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524135
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/hbohits.png" group-title="",HBO Hits
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 18.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524137
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-signature.png" group-title="",HBO Signature
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 19.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524139
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="",HBO Family
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 20.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524143
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="",HBO Extreme
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-https://aka-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 21.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524175
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvplus.com.br/images/epg/default/hbo_pop.jpg" group-title="",HBO Pop
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-https://aka-live1-ott.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 22.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524176
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/36/HBO_Plus_97.png" group-title="",HBO Plus
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-https://aka-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 23.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524177
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="",Cinemax
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 24.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524178
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/STAR-MOVIES-LOGO-1998.jpg" group-title="",Star Movies
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
-https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 25.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524179
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/STAR-WORLD-LOGO-1998.jpg" group-title="",Star World
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
-https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 26HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524180
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/0c/Star_Action_2001.png" group-title="",Star Action
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
-https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 27.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524181
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d0/HITS_logo.png/revision/latest/scale-to-width-down/530?cb=20220323123225&path-prefix=vi" group-title="",Hits Hd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 28.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524182
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png" group-title="",Tap Action Flix
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 29.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524183
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png" group-title="",TAP Movies
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 30..HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524184
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="",Warner TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 31.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524185
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" group-title="",THRILL
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 32.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524186
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="",TVN
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 33.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524187
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png" group-title="",One Sports Plus
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 34.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524457
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/onesports.png" group-title="",One Sports
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 35.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524458
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="",Uaap Varsity
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 36.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524459
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="",Bein Sports 1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 37.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524460
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="",Bein Sports 2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 38.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524461
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="",Bein Sports 3
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 39.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524462
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="",SPOTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_spotvhd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 40.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524463
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/MkG2hg.png" group-title="",SPOTV 2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 41.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524464
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/rptv.png" group-title="",RPTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 42.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524465
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sari-Sari_Channel_logo.svg/800px-Sari-Sari_Channel_logo.svg.png" group-title="",Sari-Sari
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 43.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524466
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.greyboxcreative.com/wp-content/uploads/2020/01/National-Geographic-logo.jpg" group-title="",National Geographic
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
-https://tr.live.cdn.cgates.lt/live/dash/561901/index.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 44.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524467
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="",National Geographic Wild
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519
-https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 45.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524468
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/history.png" group-title="",HISTORY HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 46.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524469
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/bbcearth.png" group-title="",BBC Earth
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 47.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524470
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="",KIX HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 48.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524471
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="",CHANNEL NEWS ASIA
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
-https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 49.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524472
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="",HGTV HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 50.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524473
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 51.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524756
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 52.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524759
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 53.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524763
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 54.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524766
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 55.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524770
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 56.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524774
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 57.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524777
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 58.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524780
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 59.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524781
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 60.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524784
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 61.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524787
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 62.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524788
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 64.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524789
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 65.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524790
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 66.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/524791
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 67.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525009
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 68.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525010
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 69.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525011
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 70.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 71.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525013
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 72.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525014
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 73.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525015
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 74.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 75.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525017
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 76.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525018
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 77.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525019
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 78.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525020
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 79.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525021
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 80.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525022
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 81.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525023
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 82.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525024
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 83.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525025
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 84.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525026
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 85.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525027
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 86.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 87.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 88.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525030
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 89.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525031
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 90.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525032
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 91.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525033
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 92.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525034
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 93.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525035
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 94.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525036
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 95.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525037
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 96.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525038
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 97.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525039
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 98.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525040
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 99.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525042
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 100.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/525044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 101.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528539
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 102.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528543
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 103.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 104.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 105.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528548
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 106.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528549
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 107.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 108.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528551
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 109.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528552
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 110.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528553
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 111.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528554
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 112.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528555
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 113.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528556
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 114.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528557
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI ADULT XXX", 115.HINDI ADULT 24/7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/528558
+
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: 21 Sextury
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291729
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: ANAL TIME
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291731
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: ANAL4K
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291732
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: ANALMOM
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291733
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: ANALONLY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291734
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXM: BANG BROS +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291736
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXM: BANG BROS +2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXM: BANG BROS +3
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291738
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: BANG BROS 4K
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291739
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Black White Porn 1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291740
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Black White Porn 2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291741
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: BLACKED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291742
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Bratty Sis
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291743
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXM: Bratty Sis +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291744
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: BRAZZERS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291745
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: BRAZZERS +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291746
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: BRAZZERS +2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291747
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: BRAZZERS +3
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291748
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: BRAZZERS en ESPANOL.COM
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291749
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: BumsBus
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291750
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: CUM 4K
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291751
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Czech Gang Bang
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291752
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: DAUGHTER SWAP
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291753
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: DORCEL CLUB
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291754
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: EVIL ANGEL +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291755
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: EVIL ANGEL +2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291756
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: EVIL ANGEL +4
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291757
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: EVIL ANGEL +49
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291758
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: EVIL ANGEL +5
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291759
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: EVIL ANGEL +7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291760
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: EXCLUSIVE AUTUMN FALLS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291761
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: FAKE TAXI
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291762
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Family Strokes
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291763
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: French Lover
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291764
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXM: Hard X
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291765
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Holly Randall
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291766
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: HOT KINKY JO
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291767
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Japan HDV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291768
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: JASMIN.TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291769
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: MiaKhalifa
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291770
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: MOFOS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291771
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: MY PERVY FAMILY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291772
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: NAUGHTY CAT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291773
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: NETIP Asian Porn
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291774
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Nubiles TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291775
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/44766506a37f3b088907703a0da4b7a8.png" group-title="ADULTS+18", XXM: PENTHOUSE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291776
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: PERV CITY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291777
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: PornHub Por DORCEL CLUB
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291944
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: PornHub PRIVATE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291945
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Primafila Hotclub 1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291946
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Primafila Hotclub 2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291947
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Primafila Hotclub 3
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291948
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Primafila Hotclub 4
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291949
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Primafila Hotclub 5
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291950
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Primafila Hotclub 6
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291951
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Primafila Hotclub 7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291952
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Primafila Hotclub 8
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291953
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Private Spice
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291954
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: PRONBOX EXCLUSIVE MADISON IVY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291955
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: PUBLIC AGENT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291956
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: PURE TABOO
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291957
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: PutaLocura
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291958
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: SEX WITH MUSLIMS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291996
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: STARS EXCLUSIVE ADRIANA CHECHIK
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291997
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: STARS EXCLUSIVE EVA LOVIA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291998
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: TRUE ANAL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291999
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXM: TRUE ANAL +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292000
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: TUSHY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292001
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: Vera DEEPER
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292002
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: VERIFIED AMATEURS NYNA FERRAGNI
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292003
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: VERIFIED AMATEURS PURPLE BITCH
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292004
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: VERIFIED AMATEURS REISLIN
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292005
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: VERIFIED AMATEURS SHAIDEN ROUGE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292006
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: VIP Asian
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292007
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: VIP Japanese
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292008
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXM: VIP SOLO
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292009
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292010
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD1 +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292011
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292012
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD2 +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292013
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD2 +2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292014
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD3
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292015
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD4
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292016
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD5
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292017
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD6
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292018
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292019
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Alba XXX HD8
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292020
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: ANALIZED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292021
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: ATK EXOTICS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292022
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: ATK Galleria
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292023
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: ATK Hairy
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292024
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: babes
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292025
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BALKAN EROTIC
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292026
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BANANA FEVER
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292027
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BANG U
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292028
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Bangerz
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292029
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BARELY LEGAL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292030
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BEATE UHSE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292031
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Blue Hustler
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292032
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Blue Hustler +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292033
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BRAZZERS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292034
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BRAZZERS +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292035
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BRAZZERS +2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292036
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BRAZZERS +4
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292037
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BRAZZERS TV Europe
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292038
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: BRAZZERZ +3
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292039
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Cento X Cento
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292040
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Cherry Pimps
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292041
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: CUM LOUDER
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292042
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: danejones
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292043
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Darling TV2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292044
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: DDF Network
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292045
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Desire
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292046
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: DORCEL TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292047
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: DORCEL XXX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292048
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eca5ed8af4d5a989426f9763e793ba63.png" group-title="ADULTS+18", XXX: DUSK
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292049
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Emanuelle
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292050
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0cc88b5e1837a574d9afd4c0b5548666.png" group-title="ADULTS+18", XXX: erotic
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292051
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e3ecf142562fb0dd76722e5a3f3af9f5.png" group-title="ADULTS+18", XXX: erotic 2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292052
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cb3e377994e967a278f87247ac8d4090.png" group-title="ADULTS+18", XXX: erotic 3
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292053
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/73b032b563fc35327ae7fe71903d64b3.png" group-title="ADULTS+18", XXX: erotic 4
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292054
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d784f6c8cc3da5b4f5a70e3fc0754145.png" group-title="ADULTS+18", XXX: erotic 5
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292055
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad731974dee83ee4da6cadbfe518b414.png" group-title="ADULTS+18", XXX: erotic 6
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292056
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/00837055688d2ce5957bb86611dfcd43.png" group-title="ADULTS+18", XXX: erotic 7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292057
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/60782fcb30648b1df7389d5351a3f0e5.png" group-title="ADULTS+18", XXX: erotic 8
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292058
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Erotic Spice
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292059
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e72bd471b8065c856a5bce7de14fc471.png" group-title="ADULTS+18", XXX: EROX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292060
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3911eb41a72af8e58d98221401182480.png" group-title="ADULTS+18", XXX: EROXXX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292061
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/69d3c688eed474f0dcfa9157d718e31d.png" group-title="ADULTS+18", XXX: EVIL ANGEL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292062
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: EVIL ANGEL +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292063
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: EXPO EROX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292064
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8d7833a7af9700e7a01d8b3475f8ed9c.png" group-title="ADULTS+18", XXX: EXTASY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292065
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: EXTREME
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292066
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Exxxotica TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292067
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/73a0c0934dab32d4122d9bb858302204.png" group-title="ADULTS+18", XXX: Fantazzy TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292068
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: GAY MEN
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292069
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: GAY TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292070
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: HITZEFREI
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292071
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Horny Hostel
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292072
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/9393de8ffa8c943b09bec0d2371b7eeb.png" group-title="ADULTS+18", XXX: HOT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292073
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: HOT 1+
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292074
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: HOT Gold
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292075
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: HOT GUYS FUCK
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292076
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXX: HOT GUYS FUCK +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292077
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: HOT Pleasure
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292078
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: HOT XXL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292079
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/1161b5609e8639fa7922c371e25c63c2.png" group-title="ADULTS+18", XXX: HUSTLER HD
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292080
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/39f670616f23f6bfb21d6f0aed98de65.png" group-title="ADULTS+18", XXX: Hustler TV RED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292081
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: IPPA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292082
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: IPPA +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292083
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: LEO TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292084
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: LEO TV Gold
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292085
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Little Caprice
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292086
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Meiden Van Holland
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292087
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXX: MI Interracial
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292088
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Miami TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292089
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Miami TV Colombia
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292090
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Miami TV International
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292091
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Miami TV Mexico
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292092
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: MILF TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292093
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXX: MILFED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292094
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: MOFOS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292095
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: MOM TEACH SEX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292096
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXX: NAKED NEWS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292097
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: NET XX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292098
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: NET XXL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292099
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: NF Busty
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292100
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Nubile Films
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292101
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/89cbca28208f364ef1b47c06315afd71.png" group-title="ADULTS+18", XXX: O.La.La
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292102
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8712b8aa05c4d22e29838d4eefe9e03.png" group-title="ADULTS+18", XXX: Passie XXX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292103
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/db94ebdf2fe455251214a0f15a9ea99a.png" group-title="ADULTS+18", XXX: Passion XXX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292104
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/9f800e42bd55fb7fe94baeebcb69f7b0.png" group-title="ADULTS+18", XXX: Passion XXX +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292105
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ae248ced9cd536ee1723ab55d0a3e7c2.png" group-title="ADULTS+18", XXX: PENTHOUSE Gold
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292106
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: PENTHOUSE Passion
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292107
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: PENTHOUSE REALITY TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292108
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Perv Mom
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292109
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: PINKO CLUB
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292110
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png" group-title="ADULTS+18", XXX: PLAYBOY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292111
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: PLAYBOY Brasil
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292112
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: PLAYBOY Latino
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292113
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: PLAYBOY USA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292114
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: PLAYHOUSE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292115
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9150f35348b9d8da4226de2b9ce6c9b2.png" group-title="ADULTS+18", XXX: Private TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292116
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e1a65ebbea073d02a2e015181b94f4a3.png" group-title="ADULTS+18", XXX: Reality Kings TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292117
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Reality Kings TV +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292118
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: RED LIPS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292119
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8bf9a9c45c6293b91fc1f144f40e898e.png" group-title="ADULTS+18", XXX: REDLIGHT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292120
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1559fdf457a6aa36a9cf1c0d17313547.png" group-title="ADULTS+18", XXX: Russkaya Noch
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292121
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Secret Circle
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292122
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Sexart
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292123
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: SeXation
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292124
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: SEXTREME
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292125
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Sexy HOT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292126
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: SINEMATICA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXX: Sugar Street
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292128
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: SuperOne
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292129
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: TRANS ANGELS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ADULTS+18", XXX: TRANS ANGELS PornBox
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292131
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: TRANS PICCANTE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292132
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b6d6e0bb58bd4e3c2b4874c609918a94.png" group-title="ADULTS+18", XXX: VENUS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292133
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/80ca765246e54cb9c7f6744b550ccd21.png" group-title="ADULTS+18", XXX: VISIT-X TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292134
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: VIVID Red
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292135
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: VIVID Touch
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292136
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57f0394829c11df6816fc99acd551126.png" group-title="ADULTS+18", XXX: VIVID TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292137
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/5412f754d84f76d71e0af50dd73b23b1.png" group-title="ADULTS+18", XXX: VIXEN
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292138
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: WHITE BOXXX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292139
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: X Bizarre
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292140
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: X Bunga Bunga
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292141
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fa06cef9ac1eb267ae04ff8d77250e85.png" group-title="ADULTS+18", XXX: XXL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292142
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1e02585dc3ba3c59be105d4156fc0de3.png" group-title="ADULTS+18", XXX: XY Max
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292143
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: XY Mix
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292144
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14e860767c8196bb366ffddc6ad1ff80.png" group-title="ADULTS+18", XXX: XY Plus
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292145
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ADULTS+18", XXX: Щёлк
+http://filex.tv:8080/joeline612/FdVyzGCD7y/292146
+
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX 4K BAEB
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291778
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX 4K TINY 4K
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291779
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox A girl Knows
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291780
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox Adult Time
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291781
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX ALICE REDLIPS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291782
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX ALL BLACK X
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291783
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX ALL GROUP SEX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291784
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox Amateur Euro
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291785
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox Amateurs Bigittygothgg
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291786
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX ANALIZED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291787
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX BABES
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291788
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX BANG BROS NETWORK
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291789
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN+18", XXM: PORNBOX BANG BROS NETWORK +1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291790
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX BANGBUS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291791
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox Biphoria
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291792
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX BLACKED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291793
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX BLOW ME POV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291794
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox Box Of Porn
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291795
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX BRAZZERS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291796
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox Bums Bus
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291797
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX CASTING COUCH
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291798
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX Cherry Grace
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291799
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX CUM 4K
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291800
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX CUM FIESTA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291801
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX DAGFS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291802
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX DDF BUSTY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291803
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX DEEPER
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291804
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX DIABOLIC
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291805
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX DIGITAL PLAYGROUND
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291806
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX DOG HOUSE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291807
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX DOGFART NETWORK
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291808
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX DORCEL CLUB
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291809
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX DREAMROOM
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291810
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EROTIC SPICE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291811
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EROTIK VON BENAN
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291812
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EVIL ANGEL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291813
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXCLUSIVE NICOLE ANISTON
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291814
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXCLUSIVE RILEY REID
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291815
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXCLUSIVE STARTS ALINA LOPEZ
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291816
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXCLUSIVE STARTS ANGELA WHITE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291817
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXCLUSIVE STARTS ARIANA MARIE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291818
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXCLUSIVE STARTS BRANDI LOVE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291819
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXCLUSIVE STARTS EMILY WILLIS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291820
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXCLUSIVE UMA JOLIE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291821
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXCLUSIVE VALENTINA NAPPI
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291822
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXTASY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291823
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX EXXXTRA SMALL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291824
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FAKE AGENT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291825
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FAKE DRIVING SCHOOL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291826
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FAKE HOSPITAL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291827
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FAKE HOSTEL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291828
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FAKE TAXI
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291829
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox family Strokes
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291830
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FAMILY SWAP
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291831
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FAPADOO
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291832
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FEMALE AGENT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291833
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FHUTA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291834
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FILTHY POV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291835
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FIRST ANAL QUEST
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291836
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FIT 18
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291837
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX FORGIVE ME FATHER
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291838
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX GOTMYLF
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291839
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX HENTAINED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291840
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX HER LIMIT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291841
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX HOLED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291842
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX HORNY HOSTEL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291843
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX HOT MIX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291844
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX HOT WIFE XXX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291845
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX HUSSIE PASS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291846
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX INTERRACIAL PASS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291847
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX INTIMATE POV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291848
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox Jays Pov
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291849
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox Jesh By Jesh
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291850
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX JOI BABES
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291851
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX JULES JORDAN
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291852
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX KINKY FAMILY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291853
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX KINKY INLAWS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291854
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX KINKYSPA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291855
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX LEAH MEOW
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291856
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX LETHAL HARDCORE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291857
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX LETHAL TEENS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291858
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX LETS DOE IT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291859
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX LIFE SELECTOR
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291860
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX LOVE HER FEET
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291861
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX LOVE HOME PORN
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291862
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX LUBED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291863
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox luxure
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291864
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX Luxury Girl
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291865
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MAMACITAZ
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291866
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MASSAGE ROOMS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291867
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MIKANIKA69
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291868
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MILE HIGH
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291869
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MINI DIVA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291870
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MMM 100
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291871
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox Model Media Asia
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291872
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MOFOS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291873
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MOFOS LAB
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291874
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MOM TEACH SEX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291875
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MOM XXX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291876
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MOMMY BLOWS BEST
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291877
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MUST NOT FAP
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291878
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: pornbox my 18 teens
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291879
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MY DIRTY HOBBY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291880
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MY FAMILY PIES
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291881
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MY LIFE IN MIAMI
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291882
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MY PERVY FAMILY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291883
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MY TINY WISH
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291884
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX MYLF
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291885
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX NANNY SPY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291886
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX NEW SENSATIONS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291887
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox NF Busty
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291888
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX NOFACEGIRL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291889
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX NOTSOAMATEUR
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291890
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX NUBILE FILMS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291891
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX NURU MASSAGE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291892
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PASSION
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291893
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PERV CITY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291894
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PERV MOM
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291895
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PERVS ON PATROL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291896
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX POOKSI
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291897
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PORN WORLD
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291898
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PORNHOCHIC
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291899
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX POVD
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291900
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX POVMASTERS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291901
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PRENCESS CUM
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291902
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PRIVATE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291903
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PRIVATE SOCIETY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291904
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PROPERTY SEX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291905
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PUBLIC AGENT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291906
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX PURE MATURE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291907
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX REAL DIRTY VIDEOS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291908
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX REAL SWEET BUNNY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291909
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX REALITY JUNKIES
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291910
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX REALITY KINGS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291911
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX SECRETCRUSH
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291912
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX SHAGGING MOMS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291913
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX SLIM
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291914
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX SOLAZOLA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291915
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX STARS EXCLUSIVE ABELLA DANGER
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291916
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX STARS EXCLUSIVE AUGUST AMES
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291917
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX STARS EXCLUSIVE DANI DANIELS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291918
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX STARS EXCLUSIVE JANICE GRIFFITH
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291919
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX STARS EXCLUSIVE LISA ANN
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291920
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX STARS EXCLUSIVE MIA MALKOVA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291921
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX STROKIES
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291922
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX SUGAR BABES TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291923
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX SWEET SINNER
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291924
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX TESSA WINTERS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291925
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX THE WHITE BOXXX
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291926
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX THROATED
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291927
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX TINNA ANGEL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291928
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX TRANS ANGELS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291929
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX TRANS EROTICA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291930
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX TRUE AMATUERS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291931
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX TUK TUK PATROL
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291932
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: Pornbox TUSHY
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291933
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX VERIFIED AMATEURS CHESSIE RAE
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291934
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX VERIFIED AMATEURS DIANA DANIELS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291935
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX VERIFIED AMATEURS ELLAKAI
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291936
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX VERIFIED AMATEURS FIAMURR
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291937
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX VERIFIED AMATEURS KRISS KISS
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291938
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX VERIFIED AMATEURS MOLLYREDWOLF
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291939
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX VIXEN
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291940
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX WE LIVE TOGETHER
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291941
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX X CHIMERA
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291942
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GOLDEN+18", XXM: PORNBOX YINYLEON
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291943
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", PENTHOUSE (18+)
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496501
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", BRAZZERS (18+)
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496512
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", FAKE TAXI (18+)
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", BLUE HASTLER (18+)
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496514
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", [18+] BLUE HUSTLER
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496539
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", BBW
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496547
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", SMOKING
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496548
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Live Cams
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496549
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Anal
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496550
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Big Ass
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496551
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Big Dick
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496552
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Big Tits
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496553
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", BBW
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496554
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", SMOKING
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496555
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Live Cams
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496556
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Anal
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496557
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Big Ass
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496558
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Big Dick
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496559
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Interracial
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496560
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Latina
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496561
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Lesbian
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496562
+
+#EXTINF:-1 tvg-logo="http://iptv.4ktezz.top:8080/images/40f4043620d305ceef80f631133ae217.png" group-title="GOLDEN VIP+18", AdultIPTV.net MILF
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496563
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Pornstar
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496564
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net POV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496565
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Rough
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496566
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Russian
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496567
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Teen
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496568
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", SMOKING
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496569
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="GOLDEN VIP+18", AdultIPTV.net Live Cams
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496570
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", tred
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496571
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX||  Beate Uhse.TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496572
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Alba XXX 1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496573
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Alba XXX 2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496574
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Alba XXX 3
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496575
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Alba XXX 4
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496576
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Alba XXX 5
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496577
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Alba XXX 6
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496578
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Alba XXX HD1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496579
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Alba XXX HD2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496580
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Bangbros
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496581
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Blacked
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496582
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Cum 4k UHD
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496591
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Daughter Swap
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496592
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Day with a Pornstar
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496593
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| DDF Network
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496594
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| FAKE AGENT
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496597
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Family Hookups
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496598
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Family Strokes
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496599
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| French Lover Europe
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Gay Adult TV
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496610
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| GAY MAX HD
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496611
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Hot FHD
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496612
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| HOT HD
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496613
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| HUSTLER HD
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Little Caprice
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Mia Khalifa
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496616
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| My Pervy Family
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496617
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Neo Gay 1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496618
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| Public Agent
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496621
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496623
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 10
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496624
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 11
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496625
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 12
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496626
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 14
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496628
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 15
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496629
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 16
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496630
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 17
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496631
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 18
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496632
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 19
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496633
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 2
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496634
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 20
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496635
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 21
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496636
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 22
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496637
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 23
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496638
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 24
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496639
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 25
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496640
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 26
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496641
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 27
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496642
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 28
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496643
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 29
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496644
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 3
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496645
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 30
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496646
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 32
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496648
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 33
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496649
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 34
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496650
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 35
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496651
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 36
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496652
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 37
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496653
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 38
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496654
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 39
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496655
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 4
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496656
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 40
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496657
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 5
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496658
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 6
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496659
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 7
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496660
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| REDBOX ADULTS 8
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496661
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", ||XXX|| True Amateurs
+http://filex.tv:8080/joeline612/FdVyzGCD7y/496664
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GOLDEN VIP+18", XXX HD 1
+http://filex.tv:8080/joeline612/FdVyzGCD7y/501162
+
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 01
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291959
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 02
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291960
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 03
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291961
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 04
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291962
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 05
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291963
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 06
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291964
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 07
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291965
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 08
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291966
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 09
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291967
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 10
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291968
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 11
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291969
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 12
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291970
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 14
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291971
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 15
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291972
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 16
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291973
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 17
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291974
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 18
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291975
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 19
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291976
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 20
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291977
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 21
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291978
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 22
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291979
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 23
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291980
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 24
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291981
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 25
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291982
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 26
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291983
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 27
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291984
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 28
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291985
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 30
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291986
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 32
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291987
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 33
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291988
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 34
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291989
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 35
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291990
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 36
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291991
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 37
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291992
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 38
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291993
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 39
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291994
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="PORN BOX+18", XXM: RedBox Adult 40
+http://filex.tv:8080/joeline612/FdVyzGCD7y/291995
+
+
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="JP : ADULT XXX", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457014
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457015
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457017
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁵
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457018
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁶
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457019
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁷
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457020
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁸
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457021
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457022
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹⁰
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457023
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹¹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457024
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹²
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457025
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹³
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457026
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹⁴
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457027
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹⁵
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹⁶
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹⁷
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457030
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹⁸
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457031
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ¹⁹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457032
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²⁰
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457033
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²¹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457034
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²²
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²³
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²⁴
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477546
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²⁵
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²⁶
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477553
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²⁷
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477559
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²⁸
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477560
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ²⁹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477561
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³⁰
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477562
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³¹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477736
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³²
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³³
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477738
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³⁴
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477739
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³⁵
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477740
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³⁶
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477741
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³⁷
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477742
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³⁸
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477743
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ³⁹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477744
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴⁰
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477745
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴¹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477748
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴²
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477749
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴³
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477750
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴⁴
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477751
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴⁵
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477752
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴⁶
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477753
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴⁷
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477754
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴⁸
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477755
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁴⁹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477756
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁵⁰
+http://filex.tv:8080/joeline612/FdVyzGCD7y/477757
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁵¹
+http://filex.tv:8080/joeline612/FdVyzGCD7y/501154
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁵²
+http://filex.tv:8080/joeline612/FdVyzGCD7y/501155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁵³
+http://filex.tv:8080/joeline612/FdVyzGCD7y/501156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁵⁴
+http://filex.tv:8080/joeline612/FdVyzGCD7y/501157
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁵⁵
+http://filex.tv:8080/joeline612/FdVyzGCD7y/501158
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁵⁶
+http://filex.tv:8080/joeline612/FdVyzGCD7y/501159
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP : XXX ⁵⁷
+http://filex.tv:8080/joeline612/FdVyzGCD7y/501160
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JP : ADULT XXX", JP :XXX ⁵⁸
+http://filex.tv:8080/joeline612/FdVyzGCD7y/501161
+
