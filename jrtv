@@ -172,10 +172,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/01/17/image_29029374631705524538569-9w1hxvfr.png" group-title="",Blast Movies
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c7-amgplt0351/28615c30-a51d-11f0-98bb-6e9f491bb747/110/1920x1080_5129264/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Celestial-Logo-2022.jpg" group-title="",Celestial Movies Pinoy
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
