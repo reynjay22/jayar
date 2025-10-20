@@ -12,7 +12,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tnt.abante.com.ph/wp-content/uploads/2025/08/bilyo.jpg" group-title="",Bilyonaryo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/Bilyonaryo.jpg" group-title="",Bilyonaryo
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
@@ -88,7 +88,7 @@ http://136.239.159.18:6610/001/2/ch00000090990000001179//manifest.mpd?JITPDRMTyp
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://136.239.159.18:6610/001/2/ch00000090990000001286//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177592620250821080159000370&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/starmometer.com/wp-content/uploads/2011/04/TFC.jpg" group-title="",TFC
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/TFC.png" group-title="",TFC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
@@ -220,25 +220,25 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/in
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/08/hbo-logo.jpeg" group-title="",HBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/HBO.png" group-title="",HBO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/8f/HBO_Hits_97.png" group-title="",HBO Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/HBO%20hits.png" group-title="",HBO Hits
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-signature.png" group-title="",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/HBO%20signature.png" group-title="",HBO Signature
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/2/23/HBO_Family_1996.png" group-title="",HBO Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/HBO%20family.png" group-title="",HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
