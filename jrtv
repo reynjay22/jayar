@@ -18,6 +18,12 @@ http://161.49.17.2:6610/001/2/ch00000090990000001109/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:73
 http://161.49.17.2:6610/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://res.cloudinary.com/ddagq7f1a/image/upload/v1757491334/choasdhg/all/untv.png" group-title="",UNTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:116
+http://161.49.17.2:6610/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/TVUP%20Logo.png" group-title="",tvUP
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -178,6 +184,14 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CELESTIAL-LOGO.jpg" group-title="",Celestial Movies
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="",Tagalized Movie Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -267,6 +281,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://res.cloudinary.com/ddagq7f1a/image/upload/v1757491307/choasdhg/all/rock-entertainment.png" group-title="",Rock Entertainment
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:92
+http://161.49.17.2:6610/001/2/ch00000090990000001326/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png" group-title="",Tap Action Flix
 #KODIPROP:inputstream.adaptive.manifest_type=dash
