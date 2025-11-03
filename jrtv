@@ -388,7 +388,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mid-east.info/wp-content/uploads/2024/03/unnamed-60.jpg" group-title="",Redbull TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/Redbull%20TV.png" group-title="",Redbull TV
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
