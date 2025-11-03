@@ -220,7 +220,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/i
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:20
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/2017_Disney_Junior_logo.png" group-title="",Disney Jr.
+#EXTINF:-1 tvg-id="" tvg-logo="https://res.cloudinary.com/ddagq7f1a/image/upload/v1757575298/choasdhg/all/disney-junior.png" group-title="",Disney Jr.
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
@@ -250,13 +250,13 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/o7aqpbb6vv/o
 #KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blob.panzoid.com/creation-thumbnails/558284.jpg" group-title="",DREAMWORKS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://res.cloudinary.com/ddagq7f1a/image/upload/v1757491252/choasdhg/all/dreamworks.png" group-title="",DREAMWORKS HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blob.panzoid.com/creation-thumbnails/558284.jpg" group-title="",Dreamworks Tagalog
+#EXTINF:-1 tvg-id="" tvg-logo="https://res.cloudinary.com/ddagq7f1a/image/upload/v1757491252/choasdhg/all/dreamworks.png" group-title="",Dreamworks Tagalog
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
