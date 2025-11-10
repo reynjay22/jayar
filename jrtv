@@ -92,6 +92,10 @@ https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/in
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://aphrodite.gmanetwork.com/entertainment/shows/images/480_360_Show-thumb_-20220622115633.png" group-title="",Kapuso Stream
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762791490/ei/4rsRaZHBMLadvcAPvOytwA4/ip/136.239.183.120/id/3lkxxZkGo5M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/ss/1/ssa/1/bui/AdEuB5TvogkNDTzz01D8f4N8s2PFtbifhR-xalJ21Te1pSrLmluIkvRexm38vxK6BDOAYVFo9Jtjnk7R/spc/6b0G_E-W1JRwliAaZg-j1YjeSD0hIMLz5Sm84u-GLMBcXw2igja2wtY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968%2C51626155/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKR2vkX_8kstG079IUkEpwjdxiBDS36fFx20jKoW2MEYAiEAzDvap9FuPC5HXMhyk803q6YLY-AUvkC9yQ-cPjWtEv0%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png" group-title="",TV5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
