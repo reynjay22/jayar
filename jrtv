@@ -88,10 +88,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1920px-GMA_Network_Logo_Vector.svg.png" group-title="",GMA
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762850017/ei/gaASae7yNYCdvcAPquP8oAs/ip/136.239.183.117/id/EIs9DLvmxQk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5ScS7FKnxZj4bmR386guQGajpuzJ7oGZfsf9-Sjgfv19DZaW84jzbm-q3QG9_BGlPdfPZoqKyHn/spc/6b0G_CPEJo4pEBAHWRv7DiwDMyTbD_hZsw6Qufz-NJkoCmveJ3VpNHvbI7Y7ysONHvk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgAT76F9PlnMVYyQNKeS84FuGmD7_A-NG1JUTpx7peZ7YCIQCbqbmQ5TtYkoP7wjhFDpLw2rg_3GPDZYhYqeb45QDnjQ%3D%3D/file/index.m3u
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png" group-title="",TV5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
