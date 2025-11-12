@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="converge_alltv" tvg-logo="https://res.cloudinary.com/ddagq7f1a/image/upload/v1757491218/choasdhg/all/alltv.png?cache=20250918072513" group-title="Local Entertainment",ALLTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:06
+https://mc-o0of718lw0.bunny.run/55/dopamine/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/1200px-Kapamilya_Channel_Logo_2020.svg.png" group-title="",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -11,6 +16,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1920px-GMA_Network_Logo_Vector.svg.png" group-title="",GMA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+https://mc-o0of718lw0.bunny.run/7/dopamine/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/866px-GTV_Philippines_Logo_Vector.svg.png" group-title="",GTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+https://mc-o0of718lw0.bunny.run/11/dopamine/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png" group-title="",TV5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
