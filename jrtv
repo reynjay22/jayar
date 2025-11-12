@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="converge_alltv" tvg-logo="https://res.cloudinary.com/ddagq7f1a/image/upload/v1757491218/choasdhg/all/alltv.png?cache=20250918072513" group-title="Local Entertainment",ALLTV
+#EXTINF:-1 tvg-id="converge_alltv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="Local Entertainment",ALLTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:06
 https://mc-o0of718lw0.bunny.run/55/dopamine/manifest.mpd
