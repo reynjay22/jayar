@@ -184,7 +184,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/ind
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://res.cloudinary.com/ddagq7f1a/image/upload/v1757491252/choasdhg/all/dreamworks.png" group-title="",DREAMWORKS HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
