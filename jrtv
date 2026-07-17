@@ -83,61 +83,55 @@ https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png" group-title="",TV5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
+https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ed/PTV_4_Logo_June_2017.png" group-title="",PTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd
+http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/Bilyonaryo.jpg" group-title="",Bilyonaryo
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
+#KODIPROP:inputstream.adaptive.license_key=2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/TRUETV_Logo_2024.png" group-title="",TrueTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4e2b9d61c754f3a8d109b6c2f1e7a55:1d8d975f0bc2ed90eda138bd31f173f4
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/RPTV.png" group-title="",RPTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
+https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/OneNews.png" group-title="",One News HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e6a9d7c1f4b4c8a8d33c7b1f0a5e924:4c71e178d090332fbfe72e023b59f6d2
+#KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/250px-OnePHCignal.svg.png" group-title="",One PH
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
+https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/4/45/IBC_13_Logo.png" group-title="",IBC 13
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=f4a8d6216c954e709b187d3a5f2c8049:34710df996a4089ee6f7e8deb7f46586
+https://ucdn.mediaquest.com.ph/bpk-tv/ibc13_sd_new/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="",PBA Rush
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="",NBATV Philippines
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
+#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Celestial-Logo-2022.jpg" group-title="",Celestial Movies Pinoy
@@ -146,22 +140,16 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
 http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="",Tagalized Movie Channel
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://welcome.blasttv.ph/assets/section-logos-8-tvnpinoy.png" group-title="",TVN Movies Pinoy
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/reynjay22/IPTV-Logo/refs/heads/main/Thrill.png" group-title="",THRILL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+#KODIPROP:inputstream.adaptive.license_key=b8c3d5906e424f17a9215d8c7a2e6043:02ce48f1b48f7cbdc3e2703a56e8fa31
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9PLlajp.png" group-title="",Cartoon Network
